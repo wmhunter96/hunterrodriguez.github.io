@@ -17,20 +17,6 @@
   </url>
   
   <url>
-    <loc>https://hunterrodriguez.com/fr/posts/1/01/posts/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hunterrodriguez.com/posts/1/01/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://hunterrodriguez.com/fr/posts/1/01/posts/"
-                />
-  </url>
-  
-  <url>
     <loc>https://hunterrodriguez.com/fr/tags/</loc>
     <xhtml:link
                 rel="alternate"
